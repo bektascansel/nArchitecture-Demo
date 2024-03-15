@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\corePackages",
+    "\\corePackages\\Business\\Abstracts",
+    "\\corePackages\\Business\\Concretes",
+    "\\corePackages\\Business\\Dtos",
+    "\\corePackages\\Business\\Dtos\\Requests",
+    "\\corePackages\\Business\\Dtos\\Responses",
+    "\\corePackages\\Core.Packages",
+    "\\corePackages\\Core.Packages\\Core.Persistence",
+    "\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic"
+  ],
+  "SelectedNode": "\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\Sort.cs",
+  "PreviewInSolutionExplorer": false
+}

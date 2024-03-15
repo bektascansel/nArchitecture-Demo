@@ -1,0 +1,11 @@
+C:\Users\CANSEL BEKTAS\Desktop\My Courses\nArchitectureDemo\rentACar\RentACar\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\CANSEL BEKTAS\Desktop\My Courses\nArchitectureDemo\rentACar\RentACar\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\CANSEL BEKTAS\Desktop\My Courses\nArchitectureDemo\rentACar\RentACar\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\CANSEL BEKTAS\Desktop\My Courses\nArchitectureDemo\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANSEL BEKTAS\Desktop\My Courses\nArchitectureDemo\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\CANSEL BEKTAS\Desktop\My Courses\nArchitectureDemo\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\CANSEL BEKTAS\Desktop\My Courses\nArchitectureDemo\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\CANSEL BEKTAS\Desktop\My Courses\nArchitectureDemo\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\CANSEL BEKTAS\Desktop\My Courses\nArchitectureDemo\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\CANSEL BEKTAS\Desktop\My Courses\nArchitectureDemo\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\CANSEL BEKTAS\Desktop\My Courses\nArchitectureDemo\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
